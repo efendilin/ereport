@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>700</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>640</width>
+    <height>700</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>640</width>
+    <height>700</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <family>Noto Sans CJK TC Regular</family>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="focusPolicy">
+   <enum>Qt::StrongFocus</enum>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
+  </property>
+  <widget class="QPushButton" name="clear_Button">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>660</y>
+     <width>75</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Clear</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="test_Button">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>659</y>
+     <width>75</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Noto Sans CJK TC Light</family>
+    </font>
+   </property>
+   <property name="text">
+    <string>Test</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="take_Button">
+   <property name="geometry">
+    <rect>
+     <x>328</x>
+     <y>659</y>
+     <width>75</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TakeOut</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="minput_Button">
+   <property name="geometry">
+    <rect>
+     <x>169</x>
+     <y>659</y>
+     <width>75</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>MInput</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>4</x>
+     <y>1</y>
+     <width>630</width>
+     <height>281</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="brain">
+       <attribute name="title">
+        <string>*Brain</string>
+       </attribute>
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <widget class="QComboBox" name="combo_brain">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="head_neck">
+       <attribute name="title">
+        <string>*H and N</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <widget class="QComboBox" name="combo_hn">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="lung">
+       <attribute name="title">
+        <string>*Lung</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_4">
+        <item>
+         <widget class="QComboBox" name="combo_lung">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="med">
+       <attribute name="title">
+        <string>*Med</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_5">
+        <item>
+         <widget class="QComboBox" name="combo_med">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="abd">
+       <attribute name="title">
+        <string>*Abd</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_6">
+        <item>
+         <widget class="QComboBox" name="combo_abd">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="pelvic">
+       <attribute name="title">
+        <string>*Pelvic</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_7">
+        <item>
+         <widget class="QComboBox" name="combo_pelvic">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="others">
+       <attribute name="title">
+        <string>*Others</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_8">
+        <item>
+         <widget class="QComboBox" name="combo_others">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="whole">
+       <attribute name="title">
+        <string>*Whole</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_9">
+        <item>
+         <widget class="QComboBox" name="combo_whole">
+          <property name="currentText">
+           <string>Unchecked</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Unchecked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Normal</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Checked</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Abnormal</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTreeWidget" name="treeWidget">
+      <property name="font">
+       <font>
+        <family>Consolas</family>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="selectionMode">
+       <enum>QAbstractItemView::SingleSelection</enum>
+      </property>
+      <column>
+       <property name="text">
+        <string notr="true">1</string>
+       </property>
+      </column>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QTabWidget" name="tabWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>290</y>
+     <width>621</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <widget class="QWidget" name="tab">
+    <attribute name="title">
+     <string>Tab 1</string>
+    </attribute>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QPlainTextEdit" name="plainTextEdit"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="tab_2">
+    <attribute name="title">
+     <string>Tab 2</string>
+    </attribute>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

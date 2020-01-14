@@ -1,0 +1,55 @@
+﻿[numbers:num]
+two
+several
+multiple
+scattered
+widespread
+[pattern:pre]
+solid
+partly solid
+ground-glass-opacity
+air bronchogram
+[calcification:cal]
+calcified
+diffuse calcified
+central calcified
+laminated calcified
+popcorn calcified
+[shape:pre]
+flat
+radiata
+lobulated
+scalloped
+smooth
+[compared:pre]
+growth
+enlarged
+stationary
+smaller
+[peripheral:pre]
+subpleural
+perifissural
+[Size:size]
+tiny
+size:linedit
+[FDG:fdg]
+faint
+mild increased
+moderate increased
+intense
+maxSUV:linedit
+[others:post]
+pleurall tag
+[specific location:preloc]
+apical
+anterior
+lateral
+posteral
+basal
+[location:location]
+right upper lung
+right middle lung
+right lower lung
+left upper lung
+left lower lung
+IMA:linedit

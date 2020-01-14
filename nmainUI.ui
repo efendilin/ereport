@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>668</width>
+    <height>870</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>Noto Sans CJK TC Regular</family>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>中文報告系統</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <layout class="QGridLayout" name="gridLayout">
+        <property name="horizontalSpacing">
+         <number>8</number>
+        </property>
+        <item row="0" column="6">
+         <widget class="QLineEdit" name="pName">
+          <property name="acceptDrops">
+           <bool>false</bool>
+          </property>
+          <property name="readOnly">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="2">
+         <widget class="QLineEdit" name="pID"/>
+        </item>
+        <item row="0" column="0">
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>ID</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="4">
+         <widget class="QPushButton" name="search">
+          <property name="text">
+           <string>Search</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="8">
+         <widget class="QPushButton" name="saveOnly">
+          <property name="text">
+           <string>Save</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="5">
+         <widget class="QLabel" name="label_2">
+          <property name="text">
+           <string>Name</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QPushButton" name="saveClose">
+          <property name="text">
+           <string>Save and Close</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="6">
+         <widget class="QComboBox" name="patient_list"/>
+        </item>
+        <item row="3" column="8">
+         <widget class="QPushButton" name="closeButton">
+          <property name="text">
+           <string>Close</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <item>
+         <widget class="QTabWidget" name="tabEReport">
+          <property name="font">
+           <font>
+            <family>Consolas</family>
+            <pointsize>12</pointsize>
+           </font>
+          </property>
+          <property name="currentIndex">
+           <number>5</number>
+          </property>
+          <widget class="QWidget" name="nmtab">
+           <attribute name="title">
+            <string>NM</string>
+           </attribute>
+           <layout class="QHBoxLayout" name="horizontalLayout_3">
+            <item>
+             <widget class="QTreeWidget" name="nmreps">
+              <property name="font">
+               <font>
+                <family>Consolas</family>
+                <pointsize>12</pointsize>
+               </font>
+              </property>
+              <column>
+               <property name="text">
+                <string notr="true">1</string>
+               </property>
+              </column>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="pathtab">
+           <attribute name="title">
+            <string>病理</string>
+           </attribute>
+           <layout class="QHBoxLayout" name="horizontalLayout_4">
+            <item>
+             <widget class="QTreeWidget" name="pathreps">
+              <property name="font">
+               <font>
+                <family>Consolas</family>
+                <pointsize>12</pointsize>
+               </font>
+              </property>
+              <column>
+               <property name="text">
+                <string notr="true">1</string>
+               </property>
+              </column>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="radiotab">
+           <attribute name="title">
+            <string>放射</string>
+           </attribute>
+           <layout class="QHBoxLayout" name="horizontalLayout_5">
+            <item>
+             <widget class="QTreeWidget" name="radiorep">
+              <property name="font">
+               <font>
+                <family>Consolas</family>
+                <pointsize>12</pointsize>
+               </font>
+              </property>
+              <column>
+               <property name="text">
+                <string notr="true">1</string>
+               </property>
+              </column>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="scopytab">
+           <attribute name="title">
+            <string>內視鏡</string>
+           </attribute>
+           <layout class="QHBoxLayout" name="horizontalLayout_6">
+            <item>
+             <widget class="QTreeWidget" name="scopyrep">
+              <property name="font">
+               <font>
+                <family>Consolas</family>
+                <pointsize>12</pointsize>
+               </font>
+              </property>
+              <column>
+               <property name="text">
+                <string notr="true">1</string>
+               </property>
+              </column>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="others">
+           <attribute name="title">
+            <string>Others</string>
+           </attribute>
+           <layout class="QGridLayout" name="gridLayout_5">
+            <item row="0" column="0">
+             <widget class="QTreeWidget" name="othersrep">
+              <property name="font">
+               <font>
+                <family>Consolas</family>
+                <pointsize>12</pointsize>
+               </font>
+              </property>
+              <column>
+               <property name="text">
+                <string notr="true">1</string>
+               </property>
+              </column>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="tab">
+           <attribute name="title">
+            <string>數據報告</string>
+           </attribute>
+           <layout class="QGridLayout" name="gridLayout_2">
+            <item row="0" column="0">
+             <widget class="QTreeWidget" name="numrep">
+              <property name="font">
+               <font>
+                <family>Consolas</family>
+                <pointsize>14</pointsize>
+               </font>
+              </property>
+              <column>
+               <property name="text">
+                <string notr="true">1</string>
+               </property>
+              </column>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_2">
+        <item>
+         <widget class="QProgressBar" name="progressBar">
+          <property name="value">
+           <number>0</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="RBox"/>
+        </item>
+        <item>
+         <widget class="QComboBox" name="VBox"/>
+        </item>
+        <item>
+         <widget class="QPushButton" name="sendButton">
+          <property name="text">
+           <string>Send</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>668</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuSetting">
+    <property name="title">
+     <string>Setting</string>
+    </property>
+    <addaction name="actionFont_Size"/>
+    <addaction name="actionFcolor"/>
+    <addaction name="actionBcolor"/>
+   </widget>
+   <addaction name="menuSetting"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionFont_Size">
+   <property name="text">
+    <string>Font Size</string>
+   </property>
+  </action>
+  <action name="actionFcolor">
+   <property name="text">
+    <string>前景顏色</string>
+   </property>
+  </action>
+  <action name="actionBcolor">
+   <property name="text">
+    <string>背景顏色</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,429 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	.\RepSearch.py	/^from bs4 import BeautifulSoup$/;"	i
+EditHighlighter	.\ereport.py	/^class EditHighlighter(QtGui.QSyntaxHighlighter):$/;"	c
+Iner_database	.\ereport.py	/^class Iner_database():$/;"	c
+MyDialog	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^class MyDialog(QtWidgets.QDialog):$/;"	c
+MyDictionaryCompleter	.\ereport.py	/^class MyDictionaryCompleter(QtWidgets.QCompleter):$/;"	c
+MyDictionaryCompleter	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^class MyDictionaryCompleter(QtWidgets.QCompleter):$/;"	c
+MyForm	.\ereport.py	/^class MyForm(QtWidgets.QMainWindow):$/;"	c
+MyForm	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^class MyForm(QtWidgets.QMainWindow):$/;"	c
+MyForm	.\mainProgram.py	/^class MyForm(QtWidgets.QMainWindow):$/;"	c
+MyHighlighter	.\ereport.py	/^class MyHighlighter(QtGui.QSyntaxHighlighter):$/;"	c
+MyHighlighter	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^class MyHighlighter( QtGui.QSyntaxHighlighter ):$/;"	c
+MyHighlighter	.\mainProgram.py	/^class MyHighlighter( QtGui.QSyntaxHighlighter ):$/;"	c
+MyMeasure	.\ereport.py	/^class MyMeasure(QtWidgets.QDialog):$/;"	c
+MyRQS_Searcher	.\RepSearch.py	/^class MyRQS_Searcher():$/;"	c
+MyRQS_Searcher	.\mainProgram.py	/^from RepSearch import MyRQS_Searcher$/;"	i
+MySelecter	.\ereport.py	/^class MySelecter(QtWidgets.QDialog):$/;"	c
+MyTextEdit	.\ereport.py	/^class MyTextEdit(QtWidgets.QTextEdit):$/;"	c
+MyTextEdit	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^class MyTextEdit(QtWidgets.QTextEdit):$/;"	c
+MyTitle_ID	.\ereport.py	/^        class MyTitle_ID:$/;"	c	function:MyForm.__init__
+MyWin	.\mainProgram.py	/^class MyWin(QtWidgets.QMainWindow):$/;"	c
+MyautokeyinForm	.\ereport.py	/^class MyautokeyinForm(QtWidgets.QMainWindow):$/;"	c
+MyautokeyinForm	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^class MyautokeyinForm(QtWidgets.QMainWindow):$/;"	c
+Myconclusion	.\ereport.py	/^class Myconclusion(QtWidgets.QDialog):$/;"	c
+Myeditor	.\ereport.py	/^class Myeditor(QtWidgets.QDialog):$/;"	c
+Mylung_nodules	.\ereport.py	/^class Mylung_nodules(QtWidgets.QDialog):$/;"	c
+Mysimple_noted	.\ereport.py	/^class Mysimple_noted(QtWidgets.QDialog):$/;"	c
+Mytest	.\show_test.py	/^class Mytest(QtWidgets.QMainWindow):$/;"	c
+NumberBar	.\ereport.py	/^class NumberBar(QtWidgets.QWidget):$/;"	c
+OldTextEdit	.\Old_lungnd.py	/^class OldTextEdit(QtWidgets.QPlainTextEdit):$/;"	c
+QLineNumberArea	.\Old_lungnd.py	/^class QLineNumberArea(QtWidgets.QWidget):$/;"	c
+Qt	.\ereport.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+Qt	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+Qt	.\mainProgram.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+Qt	.\show_test.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtCore	.\autokeyinForm.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\checklist.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\checklist_o.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\checklist_old.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\conclusion_dia.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\editor.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\ereport.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtCore	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtCore	.\lung_nodule.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\mainProgram.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtCore	.\measurement.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\nmainUI.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\selecter.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\show_test.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtCore	.\simple_noted.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\structure.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\test.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtCore	.\test1.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\autokeyinForm.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\checklist.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\checklist_o.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\checklist_old.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\conclusion_dia.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\editor.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\ereport.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtGui	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtGui	.\lung_nodule.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\mainProgram.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtGui	.\measurement.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\nmainUI.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\selecter.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\show_test.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtGui	.\simple_noted.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\structure.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\test.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtGui	.\test1.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\autokeyinForm.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\checklist.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\checklist_o.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\checklist_old.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\conclusion_dia.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\editor.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\ereport.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtWidgets	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtWidgets	.\lung_nodule.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\mainProgram.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtWidgets	.\measurement.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\nmainUI.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\selecter.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\show_test.py	/^from PyQt5 import QtCore, QtGui, QtWidgets, Qt$/;"	i
+QtWidgets	.\simple_noted.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\structure.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\test.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+QtWidgets	.\test1.py	/^from PyQt5 import QtCore, QtGui, QtWidgets$/;"	i
+SetClipboard	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def SetClipboard(self, text):$/;"	m	class:MyForm
+Ui_Conclusion_Dialog	.\conclusion_dia.py	/^class Ui_Conclusion_Dialog(object):$/;"	c
+Ui_Conclusion_Dialog	.\ereport.py	/^from conclusion_dia import Ui_Conclusion_Dialog$/;"	i
+Ui_Dialog	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from minput import Ui_Dialog$/;"	i
+Ui_Dialog_measurement	.\ereport.py	/^from measurement import Ui_Dialog_measurement$/;"	i
+Ui_Dialog_measurement	.\measurement.py	/^class Ui_Dialog_measurement(object):$/;"	c
+Ui_Edit_Dialog	.\editor.py	/^class Ui_Edit_Dialog(object):$/;"	c
+Ui_Edit_Dialog	.\ereport.py	/^from editor import Ui_Edit_Dialog$/;"	i
+Ui_Form	.\checklist.py	/^class Ui_Form(object):$/;"	c
+Ui_Form	.\checklist_o.py	/^class Ui_Form(object):$/;"	c
+Ui_Form	.\checklist_old.py	/^class Ui_Form(object):$/;"	c
+Ui_Form	.\ereport.py	/^from checklist import Ui_Form$/;"	i
+Ui_Form	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from checklist import Ui_Form$/;"	i
+Ui_Form	.\structure.py	/^class Ui_Form(object):$/;"	c
+Ui_Lung_nodule_Dialog	.\ereport.py	/^from lung_nodule import Ui_Lung_nodule_Dialog$/;"	i
+Ui_Lung_nodule_Dialog	.\lung_nodule.py	/^class Ui_Lung_nodule_Dialog(object):$/;"	c
+Ui_MainWindow	.\mainProgram.py	/^from nmainUI import Ui_MainWindow$/;"	i
+Ui_MainWindow	.\nmainUI.py	/^class Ui_MainWindow(object):$/;"	c
+Ui_MainWindow	.\show_test.py	/^from test import Ui_MainWindow$/;"	i
+Ui_MainWindow	.\test.py	/^class Ui_MainWindow(object):$/;"	c
+Ui_MainWindow	.\test1.py	/^class Ui_MainWindow(object):$/;"	c
+Ui_Select_Dialog	.\ereport.py	/^from selecter import Ui_Select_Dialog$/;"	i
+Ui_Select_Dialog	.\selecter.py	/^class Ui_Select_Dialog(object):$/;"	c
+Ui_autokeyinForm	.\autokeyinForm.py	/^class Ui_autokeyinForm(object):$/;"	c
+Ui_autokeyinForm	.\ereport.py	/^from autokeyinForm import Ui_autokeyinForm$/;"	i
+Ui_autokeyinForm	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from autokeyinForm import Ui_autokeyinForm$/;"	i
+Ui_simple_note_Dialog	.\simple_noted.py	/^class Ui_simple_note_Dialog(object):$/;"	c
+W_OK	.\ereport.py	/^from os import linesep, getenv, access, path, W_OK, listdir, remove$/;"	i
+Worker	.\mainProgram.py	/^class Worker(QtCore.QThread):$/;"	c
+__combo_contextMenu	.\ereport.py	/^    def __combo_contextMenu(self):$/;"	m	class:MyForm	file:
+__contextMenu	.\Old_lungnd.py	/^    def __contextMenu(self):$/;"	m	class:OldTextEdit	file:
+__contextMenu	.\ereport.py	/^    def __contextMenu(self):$/;"	m	class:MyForm	file:
+__contextMenu	.\ereport.py	/^    def __contextMenu(self):$/;"	m	class:MyTextEdit	file:
+__contextMenu	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def __contextMenu(self):$/;"	m	class:MyTextEdit	file:
+__init__	.\Old_lungnd.py	/^    def __init__(self, *args, **kwargs):$/;"	m	class:OldTextEdit
+__init__	.\Old_lungnd.py	/^    def __init__(self, editor):$/;"	m	class:QLineNumberArea
+__init__	.\RepSearch.py	/^    def __init__(self, proxy='', url='http:\/\/10.1.150.73\/RQS\/webRQS.aspx', headers={'User-Agent': 'Mozilla\/5.0'}):$/;"	m	class:MyRQS_Searcher
+__init__	.\ereport.py	/^            def __init__(self, parent, default_title=''):$/;"	m	class:MyForm.__init__.MyTitle_ID
+__init__	.\ereport.py	/^    def __init__(self, *args):$/;"	m	class:NumberBar
+__init__	.\ereport.py	/^    def __init__(self, *args, **kwargs):$/;"	m	class:MyTextEdit
+__init__	.\ereport.py	/^    def __init__(self, myKeywords=None,parent=None):$/;"	m	class:MyDictionaryCompleter
+__init__	.\ereport.py	/^    def __init__(self, parent):$/;"	m	class:EditHighlighter
+__init__	.\ereport.py	/^    def __init__(self, parent):$/;"	m	class:MyHighlighter
+__init__	.\ereport.py	/^    def __init__(self, parent):$/;"	m	class:MyMeasure
+__init__	.\ereport.py	/^    def __init__(self, parent):$/;"	m	class:Mylung_nodules
+__init__	.\ereport.py	/^    def __init__(self, parent, edit_sent):$/;"	m	class:MySelecter
+__init__	.\ereport.py	/^    def __init__(self, parent, item, list, shortcut_values, mode='e', sent=''):$/;"	m	class:Myeditor
+__init__	.\ereport.py	/^    def __init__(self, parent, note=''):$/;"	m	class:Mysimple_noted
+__init__	.\ereport.py	/^    def __init__(self, parent, template_file, tab_file='.\/setting\/tab.json'):$/;"	m	class:Iner_database
+__init__	.\ereport.py	/^    def __init__(self, parent, text=''):$/;"	m	class:Myconclusion
+__init__	.\ereport.py	/^    def __init__(self, parent=None):$/;"	m	class:MyForm
+__init__	.\ereport.py	/^    def __init__(self, parent=None):$/;"	m	class:MyautokeyinForm
+__init__	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def __init__(self, *args, **kwargs):$/;"	m	class:MyTextEdit
+__init__	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def __init__(self, myKeywords=None,parent=None):$/;"	m	class:MyDictionaryCompleter
+__init__	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def __init__(self, parent):$/;"	m	class:MyHighlighter
+__init__	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def __init__(self, parent, edit_text):$/;"	m	class:MyDialog
+__init__	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def __init__(self, parent=None):$/;"	m	class:MyForm
+__init__	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def __init__(self, parent=None):$/;"	m	class:MyautokeyinForm
+__init__	.\mainProgram.py	/^    def __init__(self, parent):$/;"	m	class:MyHighlighter
+__init__	.\mainProgram.py	/^    def __init__(self, parent=None):$/;"	m	class:MyWin
+__init__	.\mainProgram.py	/^    def __init__(self, parent=None):$/;"	m	class:Worker
+__init__	.\show_test.py	/^    def __init__(self, parent=None):$/;"	m	class:Mytest
+__to_quit	.\ereport.py	/^    def __to_quit():$/;"	f	file:
+_addCustomMenuItems	.\Old_lungnd.py	/^    def _addCustomMenuItems(self, menu):$/;"	m	class:OldTextEdit
+_addCustomMenuItems	.\ereport.py	/^    def _addCustomMenuItems(self, menu):$/;"	m	class:MyTextEdit
+_addCustomMenuItems	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def _addCustomMenuItems(self, menu):$/;"	m	class:MyTextEdit
+_add_nodule	.\Old_lungnd.py	/^    def _add_nodule():$/;"	f	function:lung_nodule
+_combined_and	.\Old_lungnd.py	/^    def _combined_and(temp=[], short=False):$/;"	f	function:lung_nodule
+_combined_and	.\ereport.py	/^        def _combined_and(temp = [], seper=','):$/;"	f	function:MySelecter.get_sent
+_deal_with_autokey	.\ereport.py	/^        def _deal_with_autokey():$/;"	f	function:MyForm.test
+_deal_with_autokey	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^        def _deal_with_autokey():$/;"	f	function:MyForm.test
+_find_csv_filenames	.\ereport.py	/^        def _find_csv_filenames(suffix=".json"):$/;"	f	function:MyForm.init_tempfile
+_is_in_parentheses	.\Old_lungnd.py	/^        def _is_in_parentheses(text, pos):$/;"	f	function:OldTextEdit.measurement
+_is_in_parentheses	.\ereport.py	/^        def _is_in_parentheses(text, pos):$/;"	f	function:MyTextEdit.measurement
+_itemisExpanded	.\ereport.py	/^        def _itemisExpanded(theitem):$/;"	f	function:MyForm.test
+_itemisExpanded	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^        def _itemisExpanded(theitem):$/;"	f	function:MyForm.test
+_list_changed	.\Old_lungnd.py	/^    def _list_changed(index):$/;"	f	function:lung_nodule
+_output_nodules	.\Old_lungnd.py	/^    def _output_nodules(temp, short=False):$/;"	f	function:lung_nodule
+_remove_html	.\mainProgram.py	/^        def _remove_html(value):$/;"	f	function:MyWin.date_procress
+_send_nodules	.\Old_lungnd.py	/^    def _send_nodules():$/;"	f	function:lung_nodule
+accept	.\ereport.py	/^    def accept(self):$/;"	m	class:Myeditor
+access	.\ereport.py	/^from os import linesep, getenv, access, path, W_OK, listdir, remove$/;"	i
+add_nodule	.\ereport.py	/^    def add_nodule(self):$/;"	m	class:Mylung_nodules
+add_patient	.\ereport.py	/^    def add_patient(self):$/;"	m	class:MyForm
+add_template	.\Old_pd.py	/^def add_template(self):$/;"	f
+add_template	.\ereport.py	/^    def add_template(self):$/;"	m	class:MyForm
+allwords	.\arrangdata.py	/^allwords = []$/;"	v
+allwords	.\readdata.py	/^allwords = []$/;"	v
+app	.\ereport.py	/^    app = QtWidgets.QApplication(sys.argv)$/;"	v
+app	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    app = QtWidgets.QApplication(sys.argv)$/;"	v
+app	.\mainProgram.py	/^    app = QtWidgets.QApplication(sys.argv)$/;"	v
+app	.\show_test.py	/^    app = QtWidgets.QApplication(sys.argv)$/;"	v
+category	.\ereport.py	/^    category = ''$/;"	v
+category	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    category = ''$/;"	v
+category	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    category = '一般'$/;"	v
+changeCompletion	.\ereport.py	/^    def changeCompletion(self, completion):$/;"	m	class:MyDictionaryCompleter
+changeCompletion	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def changeCompletion(self, completion):$/;"	m	class:MyDictionaryCompleter
+change_lung	.\ereport.py	/^    def change_lung(self, loc):$/;"	m	class:Mylung_nodules
+change_template	.\ereport.py	/^    def change_template(self, template_file):$/;"	m	class:Iner_database
+check_if_multirow	.\ereport.py	/^    def check_if_multirow(self, text):$/;"	m	class:Iner_database
+check_if_multirow	.\ereport.py	/^    def check_if_multirow(self, text):$/;"	m	class:MyForm
+check_temp	.\ereport.py	/^    def check_temp(self):$/;"	m	class:MyForm
+checked_to_next	.\ereport.py	/^    def checked_to_next(self):$/;"	m	class:MyForm
+clean_patient	.\ereport.py	/^    def clean_patient(self):$/;"	m	class:MyForm
+clearer	.\ereport.py	/^    def clearer(self, reply=''):$/;"	m	class:MyForm
+clearer	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def clearer(self):$/;"	m	class:MyForm
+clipboard	.\mainProgram.py	/^    clipboard = QtWidgets.QApplication.clipboard()$/;"	v
+closeEvent	.\ereport.py	/^    def closeEvent(self, event):$/;"	m	class:Mysimple_noted
+combo_changed	.\ereport.py	/^    def combo_changed(self, index):$/;"	m	class:MyForm
+combo_changed	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def combo_changed(self, index, num):$/;"	m	class:MyForm
+date	.\ereport.py	/^    date = QtCore.pyqtSignal(str)$/;"	v	class:MyautokeyinForm
+date	.\ereport.py	/^    date = QtCore.pyqtSignal(str)$/;"	v	class:Mylung_nodules
+date	.\mainProgram.py	/^    date = QtCore.pyqtSignal()$/;"	v	class:Worker
+date_procress	.\mainProgram.py	/^    def date_procress(self, pid=''):$/;"	m	class:MyWin
+datechanger	.\RepSearch.py	/^    def datechanger(self, thedate):$/;"	m	class:MyRQS_Searcher
+datechanger	.\mainProgram.py	/^    def datechanger(self, thedate):$/;"	m	class:MyWin
+datetime	.\RepSearch.py	/^import datetime$/;"	i
+datetime	.\ereport.py	/^import datetime$/;"	i
+datetime	.\mainProgram.py	/^import datetime$/;"	i
+del_by_index	.\ereport.py	/^    def del_by_index(self, index):$/;"	m	class:Iner_database
+del_template	.\Old_pd.py	/^def del_template(self):$/;"	f
+del_template	.\ereport.py	/^    def del_template(self):$/;"	m	class:MyForm
+del_template_df	.\Old_pd.py	/^def del_template_df(self, index):$/;"	f
+dict_checker	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def dict_checker(self, word):$/;"	m	class:MyHighlighter
+double_clicked	.\ereport.py	/^    def double_clicked(self):$/;"	m	class:MyForm
+double_clicked	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def double_clicked(self):$/;"	m	class:MyForm
+edit_by_index	.\ereport.py	/^    def edit_by_index(self, index, result):$/;"	m	class:Iner_database
+edit_template	.\Old_pd.py	/^    def edit_template(self):$/;"	f	function:edit_template
+edit_template	.\Old_pd.py	/^def edit_template(self):$/;"	f
+edit_template	.\ereport.py	/^    def edit_template(self):$/;"	m	class:MyForm
+enter_completion	.\ereport.py	/^    def enter_completion(self, completion):$/;"	m	class:MyDictionaryCompleter
+enter_completion	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def enter_completion(self, completion):$/;"	m	class:MyDictionaryCompleter
+enter_event	.\ereport.py	/^    def enter_event(self):$/;"	m	class:MyForm
+ereport	.\mainProgram.py	/^import ereport$/;"	i
+eventFilter	.\ereport.py	/^    def eventFilter(self, object, event):$/;"	m	class:MyForm
+eventFilter	.\ereport.py	/^    def eventFilter(self, qobject, qevent):$/;"	m	class:MyautokeyinForm
+f	.\arrangdata.py	/^    f = open('words.txt', 'r', encoding='cp950')$/;"	v
+f	.\arrangdata.py	/^    f = open('words.txt', 'r', encoding='utf-8-sig')$/;"	v
+f	.\arrangdata.py	/^    f = open('words1.txt', 'w', encoding='utf-8-sig')$/;"	v
+f	.\readdata.py	/^    f = open('myreport.txt', 'r', encoding='cp950')$/;"	v
+f	.\readdata.py	/^    f = open('myreport.txt', 'r', encoding='utf-8-sig')$/;"	v
+fdg	.\transfer_to_json.py	/^fdg = {}$/;"	v
+fdg_template	.\transfer_to_json.py	/^    fdg_template = pd.read_excel(xlsx, 'fdg')$/;"	v
+focusInEvent	.\Old_lungnd.py	/^    def focusInEvent(self, event):$/;"	m	class:OldTextEdit
+focusInEvent	.\ereport.py	/^    def focusInEvent(self, event):$/;"	m	class:MyTextEdit
+focusInEvent	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def focusInEvent(self, event):$/;"	m	class:MyTextEdit
+getInputs	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def getInputs(self):$/;"	m	class:MyDialog
+get_all_shortcut	.\ereport.py	/^    def get_all_shortcut(self):$/;"	m	class:Iner_database
+get_data	.\ereport.py	/^    def get_data(self):$/;"	m	class:MyMeasure
+get_date	.\ereport.py	/^    def get_date(self):$/;"	m	class:MyautokeyinForm
+get_date	.\ereport.py	/^    def get_date(self):$/;"	m	class:Myeditor
+get_sent	.\ereport.py	/^    def get_sent(self):$/;"	m	class:MySelecter
+getdatabylink	.\RepSearch.py	/^    def getdatabylink(self, links, word_color=True):$/;"	m	class:MyRQS_Searcher
+getenv	.\ereport.py	/^from os import linesep, getenv, access, path, W_OK, listdir, remove$/;"	i
+getlistquary	.\RepSearch.py	/^    def getlistquary(self,  pid, txtASTR='', dpDate='一月內', dpKind='所有檢查單', btnQuery='查  詢'):$/;"	m	class:MyRQS_Searcher
+highlightBlock	.\ereport.py	/^    def highlightBlock(self, text):$/;"	m	class:EditHighlighter
+highlightBlock	.\ereport.py	/^    def highlightBlock(self, text):$/;"	m	class:MyHighlighter
+highlightBlock	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def highlightBlock(self, text):$/;"	m	class:MyHighlighter
+highlightBlock	.\mainProgram.py	/^    def highlightBlock(self, text):$/;"	m	class:MyHighlighter
+highlightCurrentLine	.\Old_lungnd.py	/^    def highlightCurrentLine(self):$/;"	m	class:OldTextEdit
+highlightCurrentLine	.\ereport.py	/^    def highlightCurrentLine(self):$/;"	m	class:MyTextEdit
+init_connect	.\RepSearch.py	/^    def init_connect(self):$/;"	m	class:MyRQS_Searcher
+init_tabwidget	.\Old_pd.py	/^def init_tabwidget(self):$/;"	f
+init_tabwidget	.\ereport.py	/^    def init_tabwidget(self):$/;"	m	class:Iner_database
+init_tempfile	.\ereport.py	/^    def init_tempfile(self):$/;"	m	class:MyForm
+init_treewidget	.\Old_pd.py	/^def init_treewidget(self):$/;"	f
+init_treewidget	.\ereport.py	/^    def init_treewidget(self):$/;"	m	class:Iner_database
+input	.\ereport.py	/^    def input(self, item, column):$/;"	m	class:MyForm
+input	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def input(self, item, column):$/;"	m	class:MyForm
+insertCompletion	.\Old_lungnd.py	/^    def insertCompletion(self, completion):$/;"	m	class:OldTextEdit
+insertCompletion	.\ereport.py	/^    def insertCompletion(self, completion):$/;"	m	class:MyTextEdit
+insertCompletion	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def insertCompletion(self, completion):$/;"	m	class:MyTextEdit
+insertText	.\ereport.py	/^    insertText = QtCore.pyqtSignal(str)$/;"	v	class:MyDictionaryCompleter
+insertText	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    insertText = QtCore.pyqtSignal(str)$/;"	v	class:MyDictionaryCompleter
+insert_by_index	.\ereport.py	/^    def insert_by_index(self, index, result):$/;"	m	class:Iner_database
+insert_keyword	.\ereport.py	/^    def insert_keyword(self, date):$/;"	m	class:MyForm
+insert_template	.\Old_pd.py	/^def insert_template(self, index_of_df, insert_list):$/;"	f
+insert_text	.\Old_lungnd.py	/^    def insert_text(self, Text):$/;"	m	class:OldTextEdit
+insert_text	.\ereport.py	/^    def insert_text(self, Text):$/;"	m	class:MyTextEdit
+json	.\ereport.py	/^import json$/;"	i
+json	.\transfer_to_json.py	/^import json$/;"	i
+keyPressEvent	.\Old_lungnd.py	/^    def keyPressEvent(self, event):$/;"	m	class:OldTextEdit
+keyPressEvent	.\ereport.py	/^    def keyPressEvent(self, event):$/;"	m	class:MyMeasure
+keyPressEvent	.\ereport.py	/^    def keyPressEvent(self, event):$/;"	m	class:MyTextEdit
+keyPressEvent	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def keyPressEvent(self, event):$/;"	m	class:MyTextEdit
+lineNumberAreaPaintEvent	.\Old_lungnd.py	/^    def lineNumberAreaPaintEvent(self, event):$/;"	m	class:OldTextEdit
+lineNumberAreaWidth	.\Old_lungnd.py	/^    def lineNumberAreaWidth(self):$/;"	m	class:OldTextEdit
+linesep	.\RepSearch.py	/^from os import linesep$/;"	i
+linesep	.\arrangdata.py	/^from os import linesep$/;"	i
+linesep	.\ereport.py	/^from os import linesep, getenv, access, path, W_OK, listdir, remove$/;"	i
+linesep	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^from os import linesep$/;"	i
+linesep	.\mainProgram.py	/^from os import linesep$/;"	i
+linesep	.\readdata.py	/^from os import linesep$/;"	i
+list_changed	.\mainProgram.py	/^    def list_changed(self, pdate):$/;"	m	class:MyWin
+listdir	.\ereport.py	/^from os import linesep, getenv, access, path, W_OK, listdir, remove$/;"	i
+lung_nodule	.\Old_lungnd.py	/^def lung_nodule(self, short=False):$/;"	f
+lymphnodes	.\ereport.py	/^    lymphnodes = {}$/;"	v
+lymphnodes	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    lymphnodes = {}$/;"	v
+main_by_index	.\ereport.py	/^    def main_by_index(self, index):$/;"	m	class:Iner_database
+make_conculsion	.\ereport.py	/^    def make_conculsion(self):$/;"	m	class:MyForm
+measurement	.\Old_lungnd.py	/^    def measurement(self):$/;"	m	class:OldTextEdit
+measurement	.\ereport.py	/^    def measurement(self):$/;"	m	class:MyTextEdit
+minput	.\ereport.py	/^    def minput(self, edit_text=''):$/;"	m	class:MyForm
+minput	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def minput(self, edit_text=''):$/;"	m	class:MyForm
+myKeywords	.\ereport.py	/^    myKeywords = []$/;"	v
+myKeywords	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    myKeywords = []$/;"	v
+myapp	.\ereport.py	/^    myapp = MyForm()$/;"	v
+myapp	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    myapp = MyForm()$/;"	v
+myapp	.\mainProgram.py	/^    myapp = MyWin()$/;"	v
+myapp	.\show_test.py	/^    myapp = Mytest()$/;"	v
+new_lung_nodule	.\Old_lungnd.py	/^    def new_lung_nodule(self):$/;"	m	class:OldTextEdit
+new_lung_nodule	.\ereport.py	/^    def new_lung_nodule(self):$/;"	m	class:MyTextEdit
+notothers	.\mainProgram.py	/^    notothers = ['核醫','病理細胞','放射科','內視鏡']$/;"	v
+paintEvent	.\Old_lungnd.py	/^    def paintEvent(self, event):$/;"	m	class:QLineNumberArea
+paintEvent	.\ereport.py	/^    def paintEvent(self, event):$/;"	m	class:NumberBar
+path	.\ereport.py	/^from os import linesep, getenv, access, path, W_OK, listdir, remove$/;"	i
+patient_changed	.\ereport.py	/^    def patient_changed(self, index):$/;"	m	class:MyForm
+pd	.\mainProgram.py	/^import pandas as pd$/;"	i
+pd	.\test_excel.py	/^import pandas as pd$/;"	i
+pd	.\transfer_to_json.py	/^import pandas as pd$/;"	i
+phraseFunc	.\Old_lungnd.py	/^    def phraseFunc(self):$/;"	m	class:OldTextEdit
+phraseFunc	.\ereport.py	/^    def phraseFunc(self):$/;"	m	class:MyTextEdit
+phraseFunc	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def phraseFunc(self):$/;"	m	class:MyTextEdit
+progress	.\RepSearch.py	/^    def progress(self, percent):$/;"	m	class:MyRQS_Searcher
+query	.\RepSearch.py	/^    def query(self, page=''):$/;"	m	class:MyRQS_Searcher
+re	.\arrangdata.py	/^import re$/;"	i
+re	.\ereport.py	/^import re$/;"	i
+re	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^import re$/;"	i
+re	.\mainProgram.py	/^import re$/;"	i
+re	.\readdata.py	/^import re$/;"	i
+read_template	.\Old_pd.py	/^def read_template(self):$/;"	f
+read_treewidget_data	.\Old_pd.py	/^def read_treewidget_data(self):$/;"	f
+remove	.\ereport.py	/^from os import linesep, getenv, access, path, W_OK, listdir, remove$/;"	i
+requests	.\RepSearch.py	/^import requests$/;"	i
+resizeEvent	.\Old_lungnd.py	/^    def resizeEvent(self, event):$/;"	m	class:OldTextEdit
+retranslateUi	.\autokeyinForm.py	/^    def retranslateUi(self, autokeyinForm):$/;"	m	class:Ui_autokeyinForm
+retranslateUi	.\checklist.py	/^    def retranslateUi(self, Form):$/;"	m	class:Ui_Form
+retranslateUi	.\checklist_o.py	/^    def retranslateUi(self, Form):$/;"	m	class:Ui_Form
+retranslateUi	.\checklist_old.py	/^    def retranslateUi(self, Form):$/;"	m	class:Ui_Form
+retranslateUi	.\conclusion_dia.py	/^    def retranslateUi(self, Conclusion_Dialog):$/;"	m	class:Ui_Conclusion_Dialog
+retranslateUi	.\editor.py	/^    def retranslateUi(self, Edit_Dialog):$/;"	m	class:Ui_Edit_Dialog
+retranslateUi	.\lung_nodule.py	/^    def retranslateUi(self, Lung_nodule_Dialog):$/;"	m	class:Ui_Lung_nodule_Dialog
+retranslateUi	.\measurement.py	/^    def retranslateUi(self, Dialog_measurement):$/;"	m	class:Ui_Dialog_measurement
+retranslateUi	.\nmainUI.py	/^    def retranslateUi(self, MainWindow):$/;"	m	class:Ui_MainWindow
+retranslateUi	.\selecter.py	/^    def retranslateUi(self, Select_Dialog):$/;"	m	class:Ui_Select_Dialog
+retranslateUi	.\simple_noted.py	/^    def retranslateUi(self, simple_note_Dialog):$/;"	m	class:Ui_simple_note_Dialog
+retranslateUi	.\structure.py	/^    def retranslateUi(self, Form):$/;"	m	class:Ui_Form
+retranslateUi	.\test.py	/^    def retranslateUi(self, MainWindow):$/;"	m	class:Ui_MainWindow
+retranslateUi	.\test1.py	/^    def retranslateUi(self, MainWindow):$/;"	m	class:Ui_MainWindow
+run	.\mainProgram.py	/^    def run(self):$/;"	m	class:Worker
+run_worker	.\mainProgram.py	/^    def run_worker(self):$/;"	m	class:MyWin
+save_all	.\ereport.py	/^    def save_all(self):$/;"	m	class:MyForm
+save_json	.\ereport.py	/^    def save_json(self):$/;"	m	class:Iner_database
+save_patient	.\ereport.py	/^    def save_patient(self, id):$/;"	m	class:MyForm
+search	.\RepSearch.py	/^    def search(self, pid, txtASTR='', dpDate='一月內', dpKind='所有檢查單', btnQuery='查  詢', numtotext=False, word_color=True):$/;"	m	class:MyRQS_Searcher
+searchF	.\mainProgram.py	/^    def searchF(self):$/;"	m	class:MyWin
+seeting_changed	.\ereport.py	/^    def seeting_changed(self, text):$/;"	m	class:MyForm
+seeting_path	.\ereport.py	/^    seeting_path = '.\/setting'$/;"	v
+seeting_path	.\transfer_to_json.py	/^seeting_path = '.\/setting\/'$/;"	v
+sents	.\arrangdata.py	/^sents = []$/;"	v
+sents	.\readdata.py	/^sents = []$/;"	v
+setCompleter	.\Old_lungnd.py	/^    def setCompleter(self, completer):$/;"	m	class:OldTextEdit
+setCompleter	.\ereport.py	/^    def setCompleter(self, completer):$/;"	m	class:MyTextEdit
+setCompleter	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def setCompleter(self, completer):$/;"	m	class:MyTextEdit
+setTextEdit	.\ereport.py	/^    def setTextEdit(self, edit):$/;"	m	class:NumberBar
+set_current_id	.\ereport.py	/^            def set_current_id(self, id):$/;"	m	class:MyForm.__init__.MyTitle_ID
+settab	.\ereport.py	/^    def settab(self):$/;"	m	class:Iner_database
+setupUi	.\autokeyinForm.py	/^    def setupUi(self, autokeyinForm):$/;"	m	class:Ui_autokeyinForm
+setupUi	.\checklist.py	/^    def setupUi(self, Form):$/;"	m	class:Ui_Form
+setupUi	.\checklist_o.py	/^    def setupUi(self, Form):$/;"	m	class:Ui_Form
+setupUi	.\checklist_old.py	/^    def setupUi(self, Form):$/;"	m	class:Ui_Form
+setupUi	.\conclusion_dia.py	/^    def setupUi(self, Conclusion_Dialog):$/;"	m	class:Ui_Conclusion_Dialog
+setupUi	.\editor.py	/^    def setupUi(self, Edit_Dialog):$/;"	m	class:Ui_Edit_Dialog
+setupUi	.\lung_nodule.py	/^    def setupUi(self, Lung_nodule_Dialog):$/;"	m	class:Ui_Lung_nodule_Dialog
+setupUi	.\measurement.py	/^    def setupUi(self, Dialog_measurement):$/;"	m	class:Ui_Dialog_measurement
+setupUi	.\nmainUI.py	/^    def setupUi(self, MainWindow):$/;"	m	class:Ui_MainWindow
+setupUi	.\selecter.py	/^    def setupUi(self, Select_Dialog):$/;"	m	class:Ui_Select_Dialog
+setupUi	.\simple_noted.py	/^    def setupUi(self, simple_note_Dialog):$/;"	m	class:Ui_simple_note_Dialog
+setupUi	.\structure.py	/^    def setupUi(self, Form):$/;"	m	class:Ui_Form
+setupUi	.\test.py	/^    def setupUi(self, MainWindow):$/;"	m	class:Ui_MainWindow
+setupUi	.\test1.py	/^    def setupUi(self, MainWindow):$/;"	m	class:Ui_MainWindow
+shortcut	.\Old_lungnd.py	/^    shortcut = QtCore.pyqtSignal(str)$/;"	v	class:OldTextEdit
+shortcut	.\ereport.py	/^    def shortcut(self, key):$/;"	m	class:MyForm
+shortcut	.\ereport.py	/^    shortcut = QtCore.pyqtSignal(str)$/;"	v	class:MyTextEdit
+show_note	.\ereport.py	/^    def show_note(self):$/;"	m	class:MyForm
+sizeHint	.\Old_lungnd.py	/^    def sizeHint(self):$/;"	m	class:QLineNumberArea
+statue	.\mainProgram.py	/^    statue = QtCore.pyqtSignal(int, str)$/;"	v	class:Worker
+subgroup	.\ereport.py	/^    subgroup = ''$/;"	v
+subgroup	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    subgroup = ''$/;"	v
+sys	.\RepSearch.py	/^import sys$/;"	i
+sys	.\arrangdata.py	/^import sys$/;"	i
+sys	.\ereport.py	/^import sys$/;"	i
+sys	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^import sys$/;"	i
+sys	.\mainProgram.py	/^import sys$/;"	i
+sys	.\readdata.py	/^import sys$/;"	i
+sys	.\show_test.py	/^import sys$/;"	i
+t	.\arrangdata.py	/^    t = f.readline()$/;"	v
+t	.\readdata.py	/^    t = f.readline()$/;"	v
+tabbykeyword	.\mainProgram.py	/^    tabbykeyword = {'scopyrep':['others','內視鏡','二年內','內視鏡',0]}$/;"	v
+tabbyrepkind	.\mainProgram.py	/^    tabbyrepkind = {'nmreps':['741 核子醫學檢查','','不限日期','NM',0],'pathreps':['459 病理組織及細胞檢驗','','不限日期','病理',0],'radiorep':['742 放射診斷科','','二年內','放射',0]}$/;"	v
+tabchange	.\ereport.py	/^    def tabchange(self, index):$/;"	m	class:MyForm
+take	.\ereport.py	/^    def take(self):$/;"	m	class:MyForm
+take	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def take(self):$/;"	m	class:MyForm
+temp	.\arrangdata.py	/^temp = ''$/;"	v
+temp	.\ereport.py	/^    temp = []$/;"	v
+temp	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    temp = []$/;"	v
+temp	.\readdata.py	/^                temp = t.strip()$/;"	v
+temp	.\readdata.py	/^            temp = temp + ' ' + t.strip()$/;"	v
+temp	.\readdata.py	/^temp = ''$/;"	v
+temp_category	.\ereport.py	/^    temp_category = {}$/;"	v
+temp_category	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    temp_category = {}$/;"	v
+temp_file_path	.\ereport.py	/^    temp_file_path = '.\/setting\/template'$/;"	v
+template	.\test_excel.py	/^template = pd.read_excel('.\/setting\/template.xlsx')$/;"	v
+template	.\transfer_to_json.py	/^template = {}$/;"	v
+template_keypair	.\ereport.py	/^    template_keypair = {}$/;"	v
+template_keypair	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    template_keypair = {}$/;"	v
+template_keypair	.\test_excel.py	/^template_keypair = {}$/;"	v
+test	.\ereport.py	/^    def test(self):$/;"	m	class:MyForm
+test	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def test(self):$/;"	m	class:MyForm
+textChanger	.\ereport.py	/^    def textChanger(self):$/;"	m	class:Myeditor
+textUnderCursor	.\Old_lungnd.py	/^    def textUnderCursor(self):$/;"	m	class:OldTextEdit
+textUnderCursor	.\ereport.py	/^    def textUnderCursor(self):$/;"	m	class:MyTextEdit
+textUnderCursor	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^    def textUnderCursor(self):$/;"	m	class:MyTextEdit
+text_changed	.\ereport.py	/^    def text_changed(self):$/;"	m	class:MyForm
+to_current_id	.\ereport.py	/^            def to_current_id(self):$/;"	m	class:MyForm.__init__.MyTitle_ID
+update	.\ereport.py	/^    def update(self, *args):$/;"	m	class:NumberBar
+update	.\ereport.py	/^    update = QtCore.pyqtSignal()$/;"	v	class:Mysimple_noted
+updateLineNumberArea	.\Old_lungnd.py	/^    def updateLineNumberArea(self, rect, dy):$/;"	m	class:OldTextEdit
+updateLineNumberAreaWidth	.\Old_lungnd.py	/^    def updateLineNumberAreaWidth(self, _):$/;"	m	class:OldTextEdit
+update_note	.\ereport.py	/^    def update_note(self):$/;"	m	class:MyForm
+win32clipboard	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^import win32clipboard$/;"	i
+win32clipboard	.\mainProgram.py	/^import win32clipboard$/;"	i
+win32con	.\ereport.sync-conflict-20180720-115252-PU3P5HI.py	/^import win32con$/;"	i
+win32con	.\mainProgram.py	/^import win32con$/;"	i
+xlsx_file	.\transfer_to_json.py	/^xlsx_file = ''$/;"	v

@@ -1,0 +1,5 @@
+﻿(FocalFDG) There is focal mild increased FDG uptake in the
+(FDG) V{Focal,Diffuse,Heterogenerous,Nodular} V{+increased,mild increased,moderate increased,intense} FDG uptake in the
+(Preexist) The pre-existing hypermetabolic lesion in the 
+(Compmal) Compatible with proven malignancy
+(Nonodal&dist) No obvious abnormal FDG uptake lesion is noted to suggest regional nodal or distant metastasis.

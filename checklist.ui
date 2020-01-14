@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>900</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>640</width>
+    <height>900</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>640</width>
+    <height>900</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <family>Consolas</family>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="focusPolicy">
+   <enum>Qt::StrongFocus</enum>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>15</x>
+     <y>865</y>
+     <width>611</width>
+     <height>34</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QCheckBox" name="Not_Ask_checkBox">
+      <property name="text">
+       <string>Do Not Ask</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QCheckBox" name="line_number_checkBox">
+      <property name="text">
+       <string>Line number</string>
+      </property>
+      <property name="checked">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="Conculsion_Button">
+      <property name="text">
+       <string>Conculsion</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="take_Button">
+      <property name="text">
+       <string>TakeOut</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="clear_Button">
+      <property name="text">
+       <string>Clear</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>38</y>
+     <width>620</width>
+     <height>34</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <widget class="QComboBox" name="seetingBox"/>
+    </item>
+    <item>
+     <widget class="QPushButton" name="minput_Button_2">
+      <property name="text">
+       <string>MInput</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="note_Button">
+      <property name="text">
+       <string>Note</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="save_Button">
+      <property name="text">
+       <string>Save</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>4</x>
+     <y>73</y>
+     <width>631</width>
+     <height>320</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Minimum">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <family>Consolas</family>
+        <pointsize>11</pointsize>
+       </font>
+      </property>
+      <property name="currentIndex">
+       <number>-1</number>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTreeWidget" name="treeWidget">
+      <property name="font">
+       <font>
+        <family>Consolas</family>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="dragEnabled">
+       <bool>false</bool>
+      </property>
+      <property name="dragDropMode">
+       <enum>QAbstractItemView::NoDragDrop</enum>
+      </property>
+      <property name="selectionMode">
+       <enum>QAbstractItemView::SingleSelection</enum>
+      </property>
+      <column>
+       <property name="text">
+        <string notr="true">shortcut</string>
+       </property>
+       <property name="font">
+        <font>
+         <family>Consolas</family>
+        </font>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>main</string>
+       </property>
+       <property name="font">
+        <font>
+         <family>Consolas</family>
+        </font>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>index</string>
+       </property>
+       <property name="font">
+        <font>
+         <family>Consolas</family>
+        </font>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>multirows</string>
+       </property>
+      </column>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QTabWidget" name="report_tab">
+   <property name="geometry">
+    <rect>
+     <x>6</x>
+     <y>396</y>
+     <width>630</width>
+     <height>470</height>
+    </rect>
+   </property>
+   <property name="currentIndex">
+    <number>1</number>
+   </property>
+   <widget class="QWidget" name="History">
+    <attribute name="title">
+     <string>History</string>
+    </attribute>
+   </widget>
+   <widget class="QWidget" name="Findings">
+    <attribute name="title">
+     <string>Findings</string>
+    </attribute>
+   </widget>
+   <widget class="QWidget" name="Conclusions">
+    <attribute name="title">
+     <string>Conclusions</string>
+    </attribute>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>8</x>
+     <y>5</y>
+     <width>621</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_3">
+    <item>
+     <widget class="QLabel" name="pid_lab">
+      <property name="font">
+       <font>
+        <family>Consolas</family>
+       </font>
+      </property>
+      <property name="text">
+       <string>Patient ID</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="patient_id">
+      <property name="font">
+       <font>
+        <family>Consolas</family>
+       </font>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="addButton">
+      <property name="text">
+       <string>Add</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QComboBox" name="patient_comboBox">
+      <property name="minimumSize">
+       <size>
+        <width>200</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="acceptDrops">
+       <bool>false</bool>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="cleanButton">
+      <property name="text">
+       <string>Clean</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget_2</zorder>
+  <zorder>report_tab</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

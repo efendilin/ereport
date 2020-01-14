@@ -1,0 +1,81 @@
+﻿{Head}
+[Back]
+Occipital
+Mastoid/retroauricular
+Parotid(Superficial & Deep)
+preauricular
+infra-auricular
+intraglandular
+[Front]
+Facial
+Submandibular
+Submental
+{Cervical}
+[Comm]
+Left upper neck
+Left lower neck
+Right upper neck
+Right lower neck
+[Superficial]
+Superficial anterior 
+Superficial lateral
+[Deep]
+pretracheal
+paratracheal
+prelaryngeal
+thyroid
+superior deep cervical
+inferior deep cervical
+retropharyngeal
+jugulodigastric
+jugulo-omohyoid
+[Other]
+Anterior cervical
+Lateral cervical
+Supraclavicular
+{Arm and axilla}
+[Comm]
+Left axillary
+Right axillary
+[Axillary]
+Brachial
+Pectoral
+Subscapular
+Central
+Apical
+[Arm]
+Supratrochlear
+Deltopectoral
+{Chest}
+[Comm]
+Parasternal
+Intercostal
+Superior diaphragmatic
+bronchopulmonary
+paratracheal
+intrapulmonary
+{Abdomen}
+[Paraaortic]
+Paraaortic
+Retroaortic
+Lateral aortic
+[Preaortic] 
+Celiac
+gastric
+hepatic
+splenic
+Superior mesenteric 
+mesenteric
+ileocolic
+mesocolic
+Inferior mesenteric
+pararectal
+[Other]
+left common/external/internal iliac 
+right common/external/internal iliac
+Sacral
+Retroperitoneal
+[Leg]
+left inguinal
+right inguinal
+Popliteal
